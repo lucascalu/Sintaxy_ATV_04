@@ -1,4 +1,4 @@
-# Sintaxy SQL ATV 01
+# Sintaxy SQL ATV 04
 <br>
 
 <H1>
@@ -8,7 +8,7 @@
 <br>
 
 <p>
- Cada aluno deverá criar uma base de dados com nome AlunosSala com uma tabela chamada alunos, com colunas id (AUTO_INCREMENT) , nome (VARCHAR) , sobrenome (VARCHAR) , idade (VARCHAR) e alimenta-la com as informações listadas através de um sistema SGBD.
+ Cada aluno deverá SELECIONAR em uma base de dados com nome AlunosSala a tabela chamada alunos,os 10 Nomes marcados com sim na coluna Favorites através de um sistema SGBD.
 Cada aluno deverá posta o código fonte na plataforma Github e inserir o respectivo link na plataforma classrom 
   
 </p>
@@ -41,7 +41,7 @@ Critérios de Avaliação
 </p>
 
 <h1>
- SQL Syntax ATV 01  
+ SQL Syntax ATV 04  
 </h1>
 <br>
 
@@ -52,7 +52,7 @@ Critérios de Avaliação
 <br>
 
 <p>
- Each student must create a database named StudentsRoom with a table called students, with columns id (AUTO_INCREMENT), name (VARCHAR), surname (VARCHAR), age (VARCHAR) and feed it with the information listed through a system DBMS.
+ Each student must SELECT the 10 Names marked with yes in the Favorites column through a DBMS system from a database named StudentsRoom.
 Each student must post the source code on the Github platform and insert the respective link on the classrom platform
   
 </p>
